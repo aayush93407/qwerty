@@ -1,4 +1,4 @@
-tk  # GUI framework
+tkinter  # GUI framework
 PyPDF2==3.0.1  # For PDF reading and processing
 fpdf==1.7.2  # For generating PDFs
 requests==2.31.0  # For handling HTTP requests
